@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeyahngee.fullscreenplayground.com/sitemap.xml
